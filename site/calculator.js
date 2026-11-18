@@ -3,5 +3,5 @@ export function add(first, second) {
 }
 
 export function multiply(first, second) {
-   return a * b;
+   return first * second;
 }
